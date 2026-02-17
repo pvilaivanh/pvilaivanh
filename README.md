@@ -1,16 +1,15 @@
 ## Hi there, I'm Punoi Vilaivanh!
 
-<!--
-**pvilaivanh/pvilaivanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+•	Education:
+o	Northeast State Community College
+	Associates of Applied Science | Computer Information Technology (May 2026)
+o	Elizabethton High School
+	High School Diploma (May 2011)
+•	Programming:
+o	C#
+o	JavaScript
+o	HTML
+o	CSS
+•	Location:
+o	Elizabethton, TN USA
