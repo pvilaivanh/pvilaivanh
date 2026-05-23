@@ -25,6 +25,7 @@ Currently focused on:
 - C#
 - JavaScript
 - HTML / CSS
+- Python
 
 **Tools & Technologies**
 - Git & GitHub
